@@ -2,17 +2,6 @@ extends Node2D
 
 var file_path = 'user://settings.cfg'
 
-func listen_pine(pipe_path, stream_peer):
-	while true:
-		var file = File.new()
-		if file.open(pipe_path, file.READ) == OK:
-			var data = file.get_as_text()
-			printerr(data)
-			if data =="y":
-				get_tree().change_scene("res://cj/czcj.tscn")
-		else:
-			break
-
 func run_python(path :Array, sfzt :bool = false, zszd :bool = true):
 	var python_interpreter = "python"  # 或者是 "python3"，取决于系统
 	var _run_code = OS.execute(python_interpreter, path, sfzt, [], false, zszd)

@@ -10,10 +10,6 @@ def wechat():
         wechat_xw(e)
         
     print("已打开微信")
-    pipe = r'\\.\pipe\wechat'
-    os.mkfifo(pipe)
-    with open(pipe, 'w') as f:
-        f.write('y'):
     ei = input('按回车关闭窗口...')
     exit()
 wechat()
