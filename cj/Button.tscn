@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://new_dynamicfont.tres" type="DynamicFont" id=1]
+
+[node name="Button" type="Button"]
+margin_left = 390.0
+margin_top = 281.0
+margin_right = 628.0
+margin_bottom = 369.0
+
+[node name="Label" type="Label" parent="."]
+margin_left = -4.0
+margin_top = -2.0
+margin_right = 239.0
+margin_bottom = 85.0
+size_flags_stretch_ratio = 0.0
+custom_fonts/font = ExtResource( 1 )
+text = "检测已登录微信窗口"
+align = 1
+valign = 1
