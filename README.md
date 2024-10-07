@@ -2,11 +2,9 @@
 
 
 ### 该工具还在开发中，可能存在亿些BUG
-* 主要使用Python库[wxauto](https://github.com/cluic/wxauto)开发,[GoDot](https://godotengine.org/)做页面
+#### 主要使用Python库[wxauto](https://github.com/cluic/wxauto)开发,[GoDot](https://godotengine.org/)做页面
 
-
-* 关于史山代码
-
+* 环境
 
 
 |  环境  | 版本 |
@@ -17,4 +15,9 @@
 | Godot | [3.6](https://github.com/godotengine/godot/releases/download/3.6-stable/Godot_v3.6-stable_win64.exe.zip)
 
 
+#### 关于史山代码
+* 大部分文件名和变量名都是拼音(首字母，<del>我个初中生能有多大英语词汇量</del>
+* 没写注释，逻辑又乱，自己都看不太懂
 
+### 注
+玩玩就行
