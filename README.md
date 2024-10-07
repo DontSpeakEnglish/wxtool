@@ -1,12 +1,11 @@
 # wx 小工具
 
 
-### 欢迎指出bug，欢迎pull requests
+### 该工具还在开发中，可能存在亿些BUG
+* 主要使用Python库[wxauto](https://github.com/cluic/wxauto)开发,GoDot做页面
 
-Windows版本微信客户端自动化，可实现简单的发送、接收微信消息、保存聊天图片
+* 关于
 
-**3.9.11.17版本微信安装包下载**：
-[点击下载](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.11.17/WeChatSetup-3.9.11.17.exe)
 
 |  环境  | 版本 |
 | :----: | :--: |
