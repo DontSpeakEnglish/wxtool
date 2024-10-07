@@ -8,10 +8,6 @@ Windows版本微信客户端自动化，可实现简单的发送、接收微信�
 **3.9.11.17版本微信安装包下载**：
 [点击下载](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.11.17/WeChatSetup-3.9.11.17.exe)
 
-**文档**：
-[使用文档](https://wxauto.loux.cc/docs/intro) |
-[云服务器wxauto部署指南](https://wxauto.loux.cc/docs/advanced/deploy)
-
 |  环境  | 版本 |
 | :----: | :--: |
 |   OS   | [![Windows](https://img.shields.io/badge/Windows-10\|11\|Server2016+-white?logo=windows&logoColor=white)](https://www。microsoft.com/)  |
